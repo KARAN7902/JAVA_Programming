@@ -27,7 +27,8 @@ public class half_butterfly_pattern {
             System.out.println();
             
         }
-        for(int i=4;i>=1;i--)
+        //lower body
+        for(int i=n;i>=1;i--)
         {
             for(int j=1;j<=i;j++)
             {
