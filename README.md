@@ -12,7 +12,8 @@
   <h2>📅 Progress Tracker</h2>
   <div class="progress">
     <p>✅ Day 1: Hello World!</p>
-    <p>⏳ Upcoming: Control Structures and Arrays</p>
+    <p>✅ Day 2: Control Structures and loops</p>
+    <p>⏳ Upcoming: patterns in java </p>
   </div>
 
   <h2>💡 Why I'm Doing This</h2>
