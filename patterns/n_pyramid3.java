@@ -8,10 +8,10 @@ public class n_pyramid3 {
             {
                 System.out.print(" "+j);
             }
-            for(int k=1;k<=i;k++)
-            {
-                System.out.print("  ");
-            } 
+            // for(int k=1;k<=i;k++)
+            // {
+            //     System.out.print("  ");
+            // } 
             System.out.println();
         }
     }
