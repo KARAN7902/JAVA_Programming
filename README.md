@@ -13,7 +13,8 @@
   <div class="progress">
     <p>✅ Day 1: Hello World!</p>
     <p>✅ Day 2: Control Structures and loops</p>
-    <p>⏳ Upcoming: patterns in java </p>
+    <p>✅ Day 3: Patterns printing and functions and Methods </p>
+    <p>⏳ Upcoming:Time complexity and Space complexity </p>
   </div>
 
   <h2>💡 Why I'm Doing This</h2>
