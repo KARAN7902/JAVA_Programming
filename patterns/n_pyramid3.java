@@ -1,4 +1,4 @@
-package JAVA.patterns;
+//package JAVA.patterns;
 
 public class n_pyramid3 {
     public static void main(String[] args) {

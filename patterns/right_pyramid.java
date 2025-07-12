@@ -1,4 +1,4 @@
-package JAVA.patterns;
+//package JAVA.patterns;
 
 public class right_pyramid {
     public static void main(String[] args) {

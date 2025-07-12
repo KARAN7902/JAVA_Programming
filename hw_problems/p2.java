@@ -1,4 +1,4 @@
-package JAVA.hw_problems;
+
 import java.util.Scanner;
 public class p2 {
     public static void main(String[] args) {

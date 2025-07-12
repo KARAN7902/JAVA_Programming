@@ -1,4 +1,4 @@
-package JAVA.patterns;
+//package JAVA.patterns;
 
 public class hollow_ract {
     public static void main(String[] args) {

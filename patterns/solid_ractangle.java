@@ -1,4 +1,4 @@
-package JAVA.patterns;
+//package JAVA.patterns;
 
 public class solid_ractangle {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package JAVA.patterns;
+//package JAVA.patterns;
 
 public class inverted_h_pyramid {
     public static void main(String[] args) {

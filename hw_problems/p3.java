@@ -1,4 +1,4 @@
-package JAVA.hw_problems;
+
 
 import java.util.Scanner;
 
