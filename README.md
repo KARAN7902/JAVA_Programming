@@ -11,10 +11,11 @@
 
   <h2>📅 Progress Tracker</h2>
   <div class="progress">
-    <p>✅ Day 1: Hello World!</p>
+    <p>✅ Day 1: Hello World! and Data Tpes, Variables </p>
     <p>✅ Day 2: Control Structures and loops</p>
     <p>✅ Day 3: Patterns printing and functions and Methods </p>
-    <p>⏳ Upcoming:Time complexity and Space complexity </p>
+    <p>✅ Day 4:Time complexity and Space complexity </p>
+    <p>✅ Day 5:Introduction to Arrays and 2D Arrays </p>
   </div>
 
   <h2>💡 Why I'm Doing This</h2>
