@@ -2,6 +2,8 @@ package functionsjava;
 import java.util.*;
 public class FibRecursion {
     public static int CalculateFib(int n){
+        //this is the recursive function
+        // because it calls itself again and again
         if(n==0)
         {
             return 0;
