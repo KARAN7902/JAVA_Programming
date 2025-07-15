@@ -15,7 +15,7 @@ public class Search {
                     System.out.println("the key is found at " + i + "th index");
                     break;
                 } else {
-
+                    
                     System.out.println("the key is not found");
                 }
             }
