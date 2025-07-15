@@ -32,17 +32,17 @@ public class Strings {
 
         // acess characters one by one
 
-        // String name = "karan";
-        // for (int i = 0; i < name.length(); i++) {
-        //     System.out.println(name.charAt(i));
-        // }
-        // /* out put
-        //  * k
-        //  * a
-        //  * r
-        //  * a
-        //  * n
-        //  */
+        String name = "karan";
+        for (int i = 0; i < name.length(); i++) {
+            System.out.println(name.charAt(i));
+        }
+        /* out put
+         * k
+         * a
+         * r
+         * a
+         * n
+         */
         // String compare compareTo() function
 
         // String name1="karan";
