@@ -14,9 +14,10 @@
     <p>✅ Day 1: Hello World! and Data Types, Variables </p>
     <p>✅ Day 2: Control Structures and loops</p>
     <p>✅ Day 3: Patterns printing and functions and Methods </p>
-    <p>✅ Day 4:Time complexity and Space complexity </p>
-    <p>✅ Day 5:Introduction to Arrays and 2D Arrays </p>
-    <p>✅ Day 6:String and String Builder </p>
+    <p>✅ Day 4: Time complexity and Space complexity </p>
+    <p>✅ Day 5: Introduction to Arrays and 2D Arrays </p>
+    <p>✅ Day 6: String and String Builder </p>
+    <p>✅ Day 7: All Types of Operators In Java And Bit Manipulation - Get Bit , Set Bit</p>
   </div>
 
   <h2>💡 Why I'm Doing This</h2>
