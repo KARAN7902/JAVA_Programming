@@ -1,4 +1,4 @@
-package Sorting.Sorting1;
+package DSA.Sorting;
 
 public class BubbleSort {
     public static void PrintArray(int arr[]) {

@@ -1,4 +1,5 @@
-package Sorting.Sorting1;
+package DSA.Sorting;
+;
 
 public class SelectionSort {
     public static void PrintArray(int arr[]) {
