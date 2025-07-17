@@ -17,6 +17,7 @@ public class BitUpdated {
         int newNumber = notBitMask & n;
         System.out.println(newNumber);
      }
+     sc.close();
     }
     
 }
