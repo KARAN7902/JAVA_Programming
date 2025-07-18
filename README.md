@@ -19,7 +19,7 @@
     <p>✅ Day 6: String and String Builder </p>
     <p>✅ Day 7: All Types of Operators In Java And Bit Manipulation - Get Bit , Set Bit</p>
     <p>✅ Day 8: Bit Manipulation - Clear Bit,Update Bit And Sorting Bubble Sort ,Selection Sort ,Insertion Sort</p>
-    <p>✅ Day 9: OOPS :</p>
+    <p>✅ Day 9: OOPS :
     <ul>
        <li>Class and Objects</li>
        <li>ConStructors :</li>
@@ -42,6 +42,7 @@
        <li>Multiple Inheritance (Intro)</li>
        </ol>
    </ul>
+   </p>
   </div>
 
   <h2>💡 Why I'm Doing This</h2>
