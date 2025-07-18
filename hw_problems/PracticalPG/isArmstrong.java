@@ -37,5 +37,6 @@ public class isArmstrong {
             System.out.println(n+" is not an armstrong number " + resuilt);
         }
         PrintArmstronNumber(500);
+        sc.close();
     }
 }
