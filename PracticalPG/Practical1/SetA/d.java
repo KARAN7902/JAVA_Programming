@@ -24,6 +24,7 @@ public class d {
         {
             System.out.println(array3[i]);
         }
+        sc.close();
         
     }
 }

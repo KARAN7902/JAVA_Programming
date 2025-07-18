@@ -25,6 +25,6 @@ public class b {
         System.out.println("the Perimeter of ractangle is"+CalculatePerimeter(length,breadth));
         System.out.printf("the Area of ractangle is %f\n",CalculateArea(length, breadth));
         System.out.printf("the Peremeter of ractangle is %f\n",CalculatePerimeter(length, breadth));
-
+    sc.close();
     }
 }
