@@ -19,6 +19,29 @@
     <p>✅ Day 6: String and String Builder </p>
     <p>✅ Day 7: All Types of Operators In Java And Bit Manipulation - Get Bit , Set Bit</p>
     <p>✅ Day 8: Bit Manipulation - Clear Bit,Update Bit And Sorting Bubble Sort ,Selection Sort ,Insertion Sort</p>
+    <p>✅ Day 9: OOPS :</p>
+    <ul>
+       <li>Class and Objects</li>
+       <li>ConStructors :</li>
+        <ol type ='i'>
+          <li>Non Parametric Constructors</li>
+          <li>Parametric Constructors </li>
+          <li>Destructors</li>
+        </ol>
+       <li>PolyMorphism :</li>
+         <ol type= 'i'>
+          <li>Function Overloading : Compile time Polymorphism (In Depth)</li>
+          <li>Function OverRiding : RunTime time Polymorphism (Intro)</li>
+         </ol>
+       <li>Inheritance :</li>
+       <ol type ='i'>
+       <li>Single Level Inheritance (In Depth) </li>
+       <li>Multi Level Inheritance (In Depth)</li>
+       <li>Hierarchal Level Inheritance (In Depth)</li>
+       <li>Hibrid Inheritance (In Depth)</li>
+       <li>Multiple Inheritance (Intro)</li>
+       </ol>
+   </ul>
   </div>
 
   <h2>💡 Why I'm Doing This</h2>
