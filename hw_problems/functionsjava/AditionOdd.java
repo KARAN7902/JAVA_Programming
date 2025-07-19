@@ -1,6 +1,11 @@
 package functionsjava;
-
 import java.util.Scanner;
+class Student{
+    String name;
+    void print(){
+        System.out.println(this.name);
+    }
+}
 
 public class AditionOdd {
 

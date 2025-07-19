@@ -1,6 +1,5 @@
 
 import java.util.*;
-
 public class HelloWorld {
   public static void main(String[] args) {
     try (Scanner in1 = new Scanner(System.in);) {
