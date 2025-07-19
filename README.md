@@ -21,25 +21,25 @@
     <p>✅ Day 8: Bit Manipulation - Clear Bit,Update Bit And Sorting Bubble Sort ,Selection Sort ,Insertion Sort</p>
     <p>✅ Day 9: OOPS :
     <ul>
-       <li>Class and Objects</li>
-       <li>ConStructors :</li>
+      <li>Class and Objects</li>
+      <li>ConStructors :</li>
         <ol type ='i'>
           <li>Non Parametric Constructors</li>
           <li>Parametric Constructors </li>
           <li>Destructors</li>
         </ol>
-       <li>PolyMorphism :</li>
+      <li>PolyMorphism :</li>
          <ol type= 'i'>
           <li>Function Overloading : Compile time Polymorphism (In Depth)</li>
           <li>Function OverRiding : RunTime time Polymorphism (Intro)</li>
          </ol>
-       <li>Inheritance :</li>
-       <ol type ='i'>
-       <li>Single Level Inheritance (In Depth) </li>
-       <li>Multi Level Inheritance (In Depth)</li>
-       <li>Hierarchal Level Inheritance (In Depth)</li>
-       <li>Hibrid Inheritance (In Depth)</li>
-       <li>Multiple Inheritance (Intro)</li>
+      <li>Inheritance :</li>
+        <ol type ='i'>
+         <li>Single Level Inheritance (In Depth) </li>
+         <li>Multi Level Inheritance (In Depth)</li>
+         <li>Hierarchal Level Inheritance (In Depth)</li>
+         <li>Hibrid Inheritance (In Depth)</li>
+         <li>Multiple Inheritance (Intro)</li>
        </ol>
    </ul>
    </p>
