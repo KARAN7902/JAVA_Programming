@@ -1,8 +1,14 @@
 package Arrays;
 
 import java.util.Scanner;
-
+class Name{
+  String name; 
+   void Print(){
+    System.out.println(this.name);
+   }
+}
 public class Search {
+    int name;
     public static void main(String[] args) {
 
         try (Scanner sc = new Scanner(System.in);) {
