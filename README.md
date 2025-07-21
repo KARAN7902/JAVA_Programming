@@ -43,6 +43,18 @@
        </ol>
    </ul>
    </p>
+   <p>✅ Day 10: Access identifiers :
+   <ul>
+     <li>Default</li>
+     <li>Private</li>
+     <li>Protected</li>
+     <li>Public</li>
+   </ul>
+   And <ul>
+        <li>Abstraction</li>
+        <li>Pure Abstraction</li>
+    </ul>
+   </p>
   </div>
 
   <h2>💡 Why I'm Doing This</h2>
