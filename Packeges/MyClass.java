@@ -25,10 +25,12 @@ class Karan extends Myclass{
 }
 public class MyClass {
     public static void main(String[] args) {
-    //   ACcount acc = new ACcount();
-    //   acc.name="kartik";
-    //   acc.getName(acc.name="kartik");
-    //   acc.getName("karan");
+      // here we are accessing the public data of the class by importing i.e.import Packeges.Accounts.*; it into this program
+      ACcount acc = new ACcount();
+      acc.name="kartik";
+      acc.getName(acc.name="kartik");
+      acc.getName("karan");
+      //here we are accessing the private data from the MYclass 
       Myclass name1= new Myclass();
       name1.name1="karan";
       System.out.println(name1.name1);
