@@ -4,6 +4,7 @@ class Animal{
     String type;
 }
 class Horse extends Animal {
+    //horse class geting the properties of the animal class
     public void Print(){
         System.out.println(this.name);
         System.out.println(this.type);
