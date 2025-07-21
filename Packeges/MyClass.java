@@ -3,8 +3,10 @@ import Packeges.Accounts.*;;
 
 class Myclass{
   public int age;
+  String kartik;
+  // accessible within the class or package
   protected String name1;
-// this protected string allow to access only same class and the sub classes
+// this protected string allow to access only same class and in the  different package  only sub classes can access
 //
  private String password;
  // to print the password
@@ -40,6 +42,9 @@ public class MyClass {
       Karan kg =new Karan();
       // the protected String is aacessed by the child class
       kg.name1 ="kartik";
+      /// accessing the default access identifier
+      Myclass m1 = new Myclass();
+      m1.kartik ="karan";
     }  
 }
 
