@@ -1,5 +1,5 @@
 // Option 1: Using getter method
-package Packeges.Accounts;
+package Packeges_Or_Access_Identifiers.Accounts;
 public class ACcount {
     public String name;
 

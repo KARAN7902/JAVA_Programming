@@ -1,5 +1,5 @@
-package Packeges;
-import Packeges.Accounts.*;;
+package Packeges_Or_Access_Identifiers;
+import Packeges_Or_Access_Identifiers.Accounts.*;;
 
 class Myclass{
   public int age;
