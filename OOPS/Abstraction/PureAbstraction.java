@@ -14,8 +14,12 @@ class hores implements Animal8,Animal9{
     String name;
     public void print(){
         System.out.println("helooo");
+        System.out.println(this.name);
+
     }
     public void print2(){
+        System.out.println(Animal8.eye);
+        System.out.println(Animal9.color);
         System.out.println("dgfshfhf");
     }
 
@@ -25,7 +29,7 @@ public class PureAbstraction {
         hores h1= new hores();
         h1.print();
         h1.print2();
-        System.out.println(h1.color);
-        System.out.println(h1.eye);
+    //    System.out.println(h1.color);
+    //     System.out.println(h1.eye); 
     }
 }

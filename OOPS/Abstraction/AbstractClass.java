@@ -11,7 +11,7 @@ class horse extends Animal{
             System.out.println("animal walks");
         }
         public void print(){
-            System.out.println(this.eye);
+            System.out.println(Animal.eye);
         }
 }
 class chiken extends Animal{
@@ -19,7 +19,7 @@ class chiken extends Animal{
         System.out.println("chiken walks");
     }
      public void print(){
-            System.out.println(this.eye);
+            System.out.println(Animal.eye);
         }
 }
 public class AbstractClass {
@@ -29,8 +29,8 @@ public class AbstractClass {
         h1.walk();
         chiken c1 = new chiken();
         c1.walk();
-        System.out.println(c1.eye);
-        System.out.println(h1.eye);
+        System.out.println(Animal.eye);
+        System.out.println(Animal.eye);
     }
     
 }
