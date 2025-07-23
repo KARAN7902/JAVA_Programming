@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class XpowN {
     public static int CalXpowN(int n, int x) {
+        // stack height =n
         if (n == 0) {
             return 1;
         }
@@ -19,6 +20,7 @@ public class XpowN {
     }
 
     public static int CalX(int x, int n) {
+        // stack height =log n
         if (n == 0) {
             return 1;
         }
