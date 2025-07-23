@@ -42,5 +42,6 @@ public class XpowN {
         // XpowN.CalXpowN(n, x);
         System.out.printf("the %d th power of %d is %d\n", n, x, CalXpowN(n, x));
         System.out.printf("the %d th power of %d is %d", n, x, CalX(n, x));
+        sc.close();
     }
 }

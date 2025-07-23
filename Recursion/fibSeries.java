@@ -21,6 +21,7 @@ public class fibSeries {
         int n =sc.nextInt();
         for(int i=0;i<=n;i++)
         System.out.printf("the fib Of %d is %d\n",i,CalFib(i));
+        sc.close();
     }
     
 }

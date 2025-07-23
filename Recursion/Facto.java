@@ -15,5 +15,6 @@ public class Facto {
         Scanner sc =new Scanner(System.in);
         int n =sc.nextInt();
         System.out.printf("the fact of %d is %d",n,CAlfatc(n));
+        sc.close();
     }
 }
