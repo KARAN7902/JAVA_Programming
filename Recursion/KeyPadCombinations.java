@@ -8,9 +8,11 @@ public class KeyPadCombinations {
             System.out.println(Combinations);
             return;
         }
-     char CurrentChar = str.charAt(index);
+     char CurrentChar = str.charAt(index);// current char =2
      String Mapping =Kaypad[CurrentChar-'0'];
+     //to get the keypad combination by CurrentChar -'0' ex 2-0 =2 then the keypad[2]="def";
      for(int i=0;i<Mapping.length();i++){
+        // here we are adding the characters one by one to the combinatons 
         PrintCombinations(str, index+1, Combinations+Mapping.charAt(i));
      }
     }
