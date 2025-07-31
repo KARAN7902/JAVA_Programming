@@ -10,12 +10,13 @@ public class Countones {
         return count;
     }
     public static void main(String[] args) {
-        int n=100;
+        int n=951;
        System.out.printf("no of one's in %d are %d\n",n,cout1s(n));
        // we can also use the built in function to  count no of one's in the number 
        //Integer.bitCount(n); 
       int count1 =Integer.bitCount(n);
      System.out.println(count1);
+     System.out.println(Integer.toBinaryString(n));
     }
     
 }

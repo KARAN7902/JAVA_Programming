@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AllPermutations",
+            "request": "launch",
+            "mainClass": "Recursion.AdvRecursion.AllPermutations",
+            "projectName": "JAVA_programing_8ea47ee1"
+        },
+        {
+            "type": "java",
             "name": "KeyPadCombinations",
             "request": "launch",
             "mainClass": "Recursion.KeyPadCombinations",

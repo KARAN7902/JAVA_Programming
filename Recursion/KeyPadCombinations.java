@@ -18,7 +18,7 @@ public class KeyPadCombinations {
     }
 
     public static void main(String[] args) {
-        String str ="23";
+        String str ="239";
         PrintCombinations(str, 0, "");
      }
     
