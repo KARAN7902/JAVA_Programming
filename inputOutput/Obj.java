@@ -21,7 +21,8 @@ class Obj{
 	   m1.fun2();
 	   // if
 	   Mahesh m2=new Mahesh();
-	          m2=new Mahesh();			  
+	          m2=new Mahesh();	
+			  m2.fun1();		  
 			  // here two objcts are created but the v1 is poiniting the
               // new object and the prevoius refrence is broken to the previous object and the previous (un refrenced memory get deleted by garbage colletor in java )
 		
