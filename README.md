@@ -59,6 +59,7 @@
     <p>✅ Day 12: Recursion And Tower of hanoi</p>
     <p>✅ Day 13: Recursion And Tower of hanoi Problem Time complexity</p>
     <p>✅ Day 14: Recursion And Best problems of Recursion</p>
+    <p>✅ Day 15: Statc functions/Methods</p>
   </div>
 
   <h2>💡 Why I'm Doing This</h2>
