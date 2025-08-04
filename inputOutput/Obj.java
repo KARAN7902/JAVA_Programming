@@ -18,7 +18,7 @@ class Obj{
 	   
 	   Mahesh m1= new Mahesh();
 	   m1.fun1();
-	   m2.fun2();
+	   m1.fun2();
 	   // if
 	   Mahesh m2=new Mahesh();
 	          m2=new Mahesh();			  
