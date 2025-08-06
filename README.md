@@ -59,8 +59,8 @@
     <p>✅ Day 12: Recursion And Tower of hanoi</p>
     <p>✅ Day 13: Recursion And Tower of hanoi Problem Time complexity</p>
     <p>✅ Day 14: Recursion And Best problems of Recursion</p>
-    <p>✅ Day 15: Statc functions/Methods</p>
-    <p>✅ Day 16: Statc Members / instance variable or Static variale </p>
+    <p>✅ Day 15: Static functions/Methods</p>
+    <p>✅ Day 16: Static Members / instance variable or Static variale </p>
   </div>
 
   <h2>💡 Why I'm Doing This</h2>
