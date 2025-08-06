@@ -1,4 +1,4 @@
-package OOPS.Inhritance;
+package Inhritance;
 
 class MyClass{
   String ClassName;

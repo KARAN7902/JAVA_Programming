@@ -1,4 +1,4 @@
-package OOPS.Constructors;
+package Constructors;
 class Vp{
     String Dept;
     int Students;

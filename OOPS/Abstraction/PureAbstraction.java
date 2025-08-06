@@ -1,4 +1,4 @@
-package OOPS.Abstraction;
+package Abstraction;
 interface Animal8 {
        // this the finla value for all types of animal
     static int eye=2;

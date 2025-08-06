@@ -1,4 +1,4 @@
-package OOPS.PolyMorphism;
+package PolyMorphism;
 
 public class FunctionOverRiding {
     

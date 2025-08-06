@@ -1,4 +1,4 @@
-package OOPS.Abstraction;
+package Abstraction;
 abstract class Animal{
      static int eye=2;
      //this in the constant value for all the other objects

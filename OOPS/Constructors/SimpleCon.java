@@ -1,4 +1,4 @@
-package OOPS.Constructors;
+package Constructors;
 
 class Students{
     String name;
