@@ -1,7 +1,7 @@
 package CodingSekho;
 class A{
-     int x;
-    static  int y;
+     int x; // the variable which does not have any  access specifier it is called instance vriable or which is not static or live as long as object lives
+    static  int y;// Static variable is accessible through the  whole class and lives as long as program runs
     void fun1(){
      y=22;
     }
