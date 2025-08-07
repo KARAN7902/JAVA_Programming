@@ -61,6 +61,7 @@
     <p>✅ Day 14: Recursion And Best problems of Recursion</p>
     <p>✅ Day 15: Static functions/Methods</p>
     <p>✅ Day 16: Static Members / instance variable or Static variale </p>
+    <p>✅ Day 17: Wrapper Class</p>
   </div>
 
   <h2>💡 Why I'm Doing This</h2>
