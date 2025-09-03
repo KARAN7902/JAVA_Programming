@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Count",
+            "request": "launch",
+            "mainClass": "Count",
+            "projectName": "JAVA_programing_8ea47ee1"
+        },
+        {
+            "type": "java",
             "name": "Example",
             "request": "launch",
             "mainClass": "Example",

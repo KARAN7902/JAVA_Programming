@@ -1,7 +1,7 @@
 class Count{
-  	static int count1;
+  	static int count1=0;
 	 public static  int CountR(){
-	   count1=0;
+	//    count1=0;
 		return count1++;
 	}
 	
