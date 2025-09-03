@@ -13,8 +13,8 @@ class Mahesh{
 class Obj{
 	
 	public static void main(String args[]){
-		// non static functions from outside of the current class where the main functions is present
-	   // object is used
+		//to  access the  non static functions from outside of the current class where the main functions (which is static) is present
+	   // object is used 
 	   
 	   Mahesh m1= new Mahesh();
 	   m1.fun1();
@@ -23,8 +23,7 @@ class Obj{
 	   Mahesh m2=new Mahesh();
 	          m2=new Mahesh();	
 			  m2.fun1();		  
-			  // here two objcts are created but the v1 is poiniting the
-              // new object and the prevoius refrence is broken to the previous object and the previous (un refrenced memory get deleted by garbage colletor in java )
+			  // here two objcts are created but the m2 is poiniting to the new object and the prevoius refrence is broken to the previous object and the previous (unrefrenced memory get deleted by garbage colletor in java )
 		
 		
 	}
