@@ -17,7 +17,7 @@ class obj{
   o1.x=5;
   System.out.println(o1.x);    
   System.out.println(o1.y); 
-  // here the inialsation od y in not defined or not specified so in java b default 
+  // here the inialsation of y in not defined or not specified so in java b default 
   //it stores at the empty locaton '0' not any  grabage  value   
 
   }
