@@ -9,6 +9,7 @@
     <li>Notes and resources that helped me learn</li>
   </ul>
 
+
   <h2>📅 Progress Tracker</h2>
   <div class="progress">
     <p>✅ Day 1: Hello World! and Data Types, Variables </p>

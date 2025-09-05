@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "problem5",
+            "request": "launch",
+            "mainClass": "PracticalPG.Array_of_objects_and_packages.problem5",
+            "projectName": "JAVA_programing_8ea47ee1"
+        },
+        {
+            "type": "java",
+            "name": "problem4",
+            "request": "launch",
+            "mainClass": "PracticalPG.Array_of_objects_and_packages.problem4",
+            "projectName": "JAVA_programing_8ea47ee1"
+        },
+        {
+            "type": "java",
+            "name": "problem3",
+            "request": "launch",
+            "mainClass": "PracticalPG.Array_of_objects_and_packages.problem3",
+            "projectName": "JAVA_programing_8ea47ee1"
+        },
+        {
+            "type": "java",
+            "name": "problem2",
+            "request": "launch",
+            "mainClass": "PracticalPG.Array_of_objects_and_packages.problem2",
+            "projectName": "JAVA_programing_8ea47ee1"
+        },
+        {
+            "type": "java",
+            "name": "problem1",
+            "request": "launch",
+            "mainClass": "PracticalPG.Array_of_objects_and_packages.problem1",
+            "projectName": "JAVA_programing_8ea47ee1"
+        },
+        {
+            "type": "java",
+            "name": "Que",
+            "request": "launch",
+            "mainClass": "PracticalPG.SimpleJavaPG.Que",
+            "projectName": "JAVA_programing_8ea47ee1"
+        },
+        {
+            "type": "java",
+            "name": "TestPackage",
+            "request": "launch",
+            "mainClass": "Packages.p1.p2.TestPackage",
+            "projectName": "JAVA_programing_8ea47ee1"
+        },
+        {
+            "type": "java",
+            "name": "TestPackage",
+            "request": "launch",
+            "mainClass": "TestPackage",
+            "projectName": "JAVA_programing_8ea47ee1"
+        },
+        {
+            "type": "java",
+            "name": "PureAbstraction",
+            "request": "launch",
+            "mainClass": "Abstraction.PureAbstraction",
+            "projectName": "JAVA_programing_8ea47ee1"
+        },
+        {
+            "type": "java",
             "name": "AbstractClass",
             "request": "launch",
             "mainClass": "Abstraction.AbstractClass",

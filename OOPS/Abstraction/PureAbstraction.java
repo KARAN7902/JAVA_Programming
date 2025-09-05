@@ -1,6 +1,6 @@
 package Abstraction;
 interface Animal8 {
-       // this the finla value for all types of animal
+       // this the final value for all types of animal
     static int eye=2;
     void print();
 }
@@ -18,8 +18,8 @@ class hores implements Animal8,Animal9{
 
     }
     public void print2(){
-        System.out.println(Animal8.eye);
-        System.out.println(Animal9.color);
+        System.out.println(hores.eye);
+        System.out.println(hores.color);
         System.out.println("dgfshfhf");
     }
 

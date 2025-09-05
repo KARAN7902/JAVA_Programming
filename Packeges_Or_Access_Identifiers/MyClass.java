@@ -1,5 +1,6 @@
 package Packeges_Or_Access_Identifiers;
-import Packeges_Or_Access_Identifiers.Accounts.*;;
+// import Packeges_Or_Access_Identifiers.Accounts;
+import Packeges_Or_Access_Identifiers.Accounts.*;
 
 class Myclass{
   public int age;
@@ -28,7 +29,7 @@ class Karan extends Myclass{
 public class MyClass {
     public static void main(String[] args) {
       // here we are accessing the public data of the class by importing i.e.import Packeges.Accounts.*; it into this program
-      ACcount acc = new ACcount();
+      Account1 acc = new Account1();
       acc.name="kartik";
       acc.getName(acc.name="kartik");
       acc.getName("karan");
